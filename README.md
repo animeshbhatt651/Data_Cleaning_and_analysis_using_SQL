@@ -53,3 +53,4 @@
 <li>Analysis</li>
 <li>Visualization</li>
 </ol>
+![Screenshot](https://github.com/animeshbhatt651/Data_Cleaning_and_analysis_using_SQL/blob/main/Screenshot%202023-09-20%20at%2006.50.12.png)
