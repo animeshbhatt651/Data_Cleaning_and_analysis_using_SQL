@@ -53,4 +53,5 @@
 <li>Analysis</li>
 <li>Visualization</li>
 </ol>
-<img src="(https://www.github.com/animeshbhatt651/Data_Cleaning_and_analysis_using_SQL/main/Screenshot%202023-09-20%20at%2006.50.12.png)">
+<img src="(https://www.github.com/animeshbhatt651/Data_Cleaning_and_analysis_using_SQL
+/Screenshot 2023-09-20 at 06.50.12.png)">
