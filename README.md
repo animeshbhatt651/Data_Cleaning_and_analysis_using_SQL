@@ -53,4 +53,4 @@
 <li>Analysis</li>
 <li>Visualization</li>
 </ol>
-![Screenshot](Data_Cleaning_and_analysis_using_SQL/Screenshot%202023-09-20%20at%2006.50.12.png)
+![Screenshot](Screenshot%202023-09-20%20at%2006.50.12.png)
