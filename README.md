@@ -52,6 +52,5 @@
 <li>Data Cleaning</li>
 <li>Analysis</li>
 <li>Visualization</li>
+  ![Screenshot](Screenshot 2023-09-20 at 06.50.12.png)
 </ol>
-
-![Screenshot](Screenshot 2023-09-20 at 06.50.12.png)
