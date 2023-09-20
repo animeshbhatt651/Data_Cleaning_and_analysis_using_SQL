@@ -52,6 +52,5 @@
 <li>Data Cleaning</li>
 <li>Analysis</li>
 <li>Visualization</li>
-<img src="Data_Cleaning_and_analysis_using_SQL
-/Screenshot 2023-09-20 at 06.50.12.png">
 </ol>
+![Screenshot](Screenshot%202023-09-20%20at%2006.50.12.png)
